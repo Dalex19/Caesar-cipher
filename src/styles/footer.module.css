@@ -1,0 +1,6 @@
+.end__page {
+    position: relative;
+    z-index: 9;
+    margin-top: 80px;
+    text-align: center;
+}
